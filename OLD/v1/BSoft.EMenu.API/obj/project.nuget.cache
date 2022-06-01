@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQJPsPMXj+RnMZcK4TRmlowCZlh+aDRqbv7fR0wwb+mmdzYTG08TTT4HlS/UOmtRnji7CWAEL65ffODqCfoMoA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Bona\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
